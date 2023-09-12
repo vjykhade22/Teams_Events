@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:icalgenerator
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20220831T073543Z
+UID:meet@google.com
+ORGANIZER;CN=Vijay Khade:MAILTO:vijay.khade@humancloud.co.in
+ATTENDEE;CN=Vikram Chandel;RSVP=TRUE:MAILTO:vikram.chandel@humancloud.co.in
+DTSTART:20230831T130000
+DTEND:20230831T140000
+LOCATION:https://meet.google.com/azb-kwwd-bte
+SUMMARY:Test Invitation for SendGrid Invite with ICS File
+DESCRIPTION: Let's meet online for a quick chat
+END:VEVENT
+END:VCALENDAR
